@@ -1,6 +1,6 @@
 ## Features
 
--   View a list Candidates Applied, Accepted and Rejected
+-   View a list of Candidates Applied, Accepted and Rejected
 
 ## Installation
 
