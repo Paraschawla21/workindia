@@ -31,6 +31,6 @@
 2. Axios for API requests
 3. TailWind CSS
 
-## Website Look
+## Website Preview
 
 ![Screenshot](image-1.png)
